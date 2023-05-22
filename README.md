@@ -1,5 +1,7 @@
 # tincantower_game
- This is a tin can tower game developed with unity. At the same time, its apk was made and presented to the mobile platform. The system is as follows, the value of the top box is equal to the sum of…
+ This is a tin can tower game developed with unity. At the same time, its apk was made and presented to the mobile platform. The system is as follows, the value of the upper box is equal to the n-sum of the valuesof the boxes below. 
+ The general aim of the game is to fill the value of all empty boxes with the "correct" value and complete the game.
+
  
 # Programs and languages I use 
 C#, Unity, Unity 2D
