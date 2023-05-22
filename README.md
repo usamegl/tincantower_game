@@ -12,12 +12,19 @@ C#, Unity, Unity 2D
 The object of the game is to fill all the cans as much as possible by filling the empty cans with the correct values.
 
 # FEATURES
+
 -Brain development math questions
+
 -develops algorithmic intelligence and algorithmic thinking
+
 -Improves response time by responding quickly to transactions
+
 -It is generally aimed at the young audience, but it is open to anyone who wants to improve themselves in mathematics and algorithms.
+
 -It is a game designed as educational and entertaining.
+
 -It doesn't spoil your eyes too much, it doesn't make you confused. In general, the design is practical.
+
 
 
 
